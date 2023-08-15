@@ -1,0 +1,17 @@
+{
+	"author": "Max Lavrentiev",
+	"main": "gulpfile.js",
+	"devDependencies": {
+		"browser-sync": "^2.27.7",
+		"gulp": "^4.0.2",
+		"gulp-autoprefixer": "^4.1.0",
+		"gulp-cached": "^1.1.1",
+		"gulp-debug": "^4.0.0",
+		"gulp-minify-css": "^1.2.4",
+		"gulp-rimraf": "^1.0.0",
+		"gulp-sass": "^5.1.0",
+		"gulp-uglify": "^3.0.2",
+		"gulp-util": "^3.0.8",
+		"sass": "^1.49.0"
+	}
+}
